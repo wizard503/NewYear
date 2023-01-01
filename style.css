@@ -21,6 +21,22 @@ body {
     background-color: black;
 }
 
+button{
+    background: black;
+    border: none;
+    cursor: pointer;
+    width: 77%;
+    height: 3rem;
+}
+
+#up{
+    position: relative;
+    font-size: x-large;
+    margin-right: 100px;
+    left: 80%;
+    top: 0.5rem;
+}
+
 .wrapper {
     position: absolute;
     transform: translate(-50%, -50%);
